@@ -24,4 +24,4 @@ in the Terminal.
 
 ### images of the program
 
-![image](/images/1.JPG1.JPG)
+- ![image](/images/1.JPG)
