@@ -8,7 +8,8 @@ Easy to use Youtube Downloader that can download many videos.
 
 ### Note
 
-this program need an Environment you can check how to do it manually [Here](INSTALL_venv.md)
+this program need an Environment, so you need to run **make** or make an Environment manually,
+- you can check how to make Environment manually [Here](INSTALL_venv.md)
 
 ## How to run ?
 
