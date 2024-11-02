@@ -4,7 +4,11 @@ GUi Program Made with Python using yt_dlp , tkinter and ttkbootstrap library.
 
 ## Description
 
-Easy to use Youtube Downloader that can download many videos
+Easy to use Youtube Downloader that can download many videos.
+
+### Note
+
+this program need an Environment you can check how to do it manually [Here](INSTALL_venv.md)
 
 ## How to run ?
 
