@@ -1,6 +1,6 @@
 # Youtube Downloader With GUI
 
-GUi Program Made with Python using yt_dlp library.
+GUi Program Made with Python using yt_dlp , tkinter and ttkbootstrap library.
 
 ## Description
 
