@@ -1,0 +1,2 @@
+ttkbootstrap
+yt_dlp
