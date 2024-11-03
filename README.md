@@ -9,10 +9,11 @@ Youtube Downloader that can download **videos and Playlist**.
 ## How to run ?
 
 1. Download **Makefile** and **requirements.txt** and **main.py**.
+    - How to Download [Here](/images/2.JPG).
 
-2. open **main.py** by VS code or any other code Editor.
+3. open **main.py** by VS code or any other code Editor.
 
-3. Run **make** in the Terminal or Create an Environment manually [Here](INSTALL_venv.md) and install all required libraries [requirements.txt](requirements.txt):
+4. Run **make** in the Terminal or Create an Environment manually [Here](INSTALL_venv.md) and install all required libraries [requirements.txt](requirements.txt):
 
 ```bash
 make
