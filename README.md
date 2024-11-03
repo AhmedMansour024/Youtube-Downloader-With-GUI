@@ -6,14 +6,9 @@ GUi Program Made with Python using yt_dlp , tkinter and ttkbootstrap library.
 
 Easy to use Youtube Downloader that can download many videos.
 
-### Note
-
-this program need an Environment, so you need to run **make** or make an Environment manually,
-- you can check how to make Environment manually [Here](INSTALL_venv.md)
-
 ## How to run ?
 
-make sure to run **make** :
+Run **make** in the Terminal or Create an Environment manually [Here](INSTALL_venv.md) and install all requiremented libraries:
 
 ```bash
 make
@@ -26,6 +21,7 @@ python main.py
 ```
 
 in the Terminal.
+
 
 ### images of the program
 
