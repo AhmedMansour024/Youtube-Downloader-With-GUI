@@ -9,7 +9,7 @@ Youtube Downloader that can download **videos and Playlist**.
 ## How to run ?
 
 1. Download **Makefile** and **requirements.txt** and **main.py**.
-    - How to Download [Here](/images/2.JPG).
+    - How to Download [Here](images/2.png).
 
 3. open **main.py** by VS code or any other code Editor.
 
