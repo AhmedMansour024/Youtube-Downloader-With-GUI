@@ -8,7 +8,7 @@ Youtube Downloader that can download **videos and Playlist**.
 
 ## How to run ?
 
-Run **make** in the Terminal or Create an Environment manually [Here](INSTALL_venv.md) and install all requiremented libraries:
+Run **make** in the Terminal or Create an Environment manually [Here](INSTALL_venv.md) and install all required libraries [here](requirements.txt):
 
 ```bash
 make
