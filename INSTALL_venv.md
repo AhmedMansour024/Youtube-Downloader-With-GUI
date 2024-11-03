@@ -42,7 +42,8 @@ you can use either virtual environments or conda environments. Virtual environme
             ```
 
     4. **Install Packages:** Once the environment is activated, you can install packages using pip:
-
+ 
+        For Example:
         ```bash
         pip install requests
         ```
@@ -88,6 +89,8 @@ If you’re using Anaconda or Miniconda, you can create an environment with more
 
 4. **Install Packages:** You can install packages using either conda or pip:
 
+    For Example:
+   
     ```bash
     conda install requests
     ```
@@ -98,7 +101,7 @@ If you’re using Anaconda or Miniconda, you can create an environment with more
     pip install requests
     ```
 
-5. **Deactivate the Conda Environment:**
+6. **Deactivate the Conda Environment:**
 
     ``` bash
     conda deactivate
