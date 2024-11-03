@@ -9,7 +9,7 @@ Youtube Downloader that can download **videos and Playlist**.
 ## How to run ?
 
 1. Download **Makefile** and **requirements.txt** and **main.py**.
-    - How to Download [Here](images/2.png).
+    - How to Download [Here](images/2.JPG).
 
 3. open **main.py** by VS code or any other code Editor.
 
@@ -19,15 +19,13 @@ Youtube Downloader that can download **videos and Playlist**.
 make
 ```
 
-4. run **main.py** by running :
+4. in the Terminal run **main.py** by running :
 
 ```bash
 python main.py
 ```
 
-in the Terminal.
-
-### How to Use ?
+## How to Use ?
 
 Just Enter THE URL **video** Or **Playlist** in **URL Bar** and Enter The **Quality** You want or Press **Download** To Auto Download at 720p.
 
