@@ -13,7 +13,8 @@ def download_video():
     # Download options
     ydl_opts = {
         'format': f'best[height<={quality}]',
-        'outtmpl': '%(title)s.%(ext)s',  
+        'outtmpl': '%(title)s.%(ext)s',
+        'ignoreerrors': True
     }
 
     with yt.YoutubeDL(ydl_opts) as ydl:
