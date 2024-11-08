@@ -32,6 +32,7 @@ Youtube Downloader that can download **videos** and **Playlist**.
    ```
 
 2. Enter THE URL **video** Or **Playlist** in **URL Bar** and Enter The **Quality** You want or Press **Download** To Auto Download at 720p.
+3. Choose **Download Location**.
 
 ### images of the program
 
