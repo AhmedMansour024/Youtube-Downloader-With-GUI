@@ -8,7 +8,7 @@ Youtube Downloader that can download **videos** and **Playlist**.
 
 ## How to run ?
 
-1. **Clone** this repository to your Divice:
+1. **Clone** this repository to your Device:
 
    ```bash
    git clone https://github.com/AhmedMansour024/Youtube-Downloader-With-GUI
