@@ -20,7 +20,7 @@ Youtube Downloader that can download **videos** and **Playlist**.
     make
     ```
 
-     - **Or** Create an Environment manually [Here](https://github.com/AhmedMansour024/Create-Environment-and-Insatalling-Make/blob/36926bbaf26c1b7c0060df2228f4cdad95667c86/INSTALL_VENV.md) and install all necessary libraries:
+     - **Or** Create an Environment manually [Here](https://github.com/AhmedMansour024/Create-Environment-and-Insatalling-Make/blob/36926bbaf26c1b7c0060df2228f4cdad95667c86/INSTALL_VENV.md) and install all necessary libraries By Using:
 
        ```bash
         pip install -r requirements.txt
