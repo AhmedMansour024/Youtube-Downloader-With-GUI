@@ -35,4 +35,4 @@ Youtube Downloader that can download **videos** and **Playlist**.
 
 ### images of the program
 
-- ![image](/images/1.JPG)
+- ![image](/images/1-1.JPG)
